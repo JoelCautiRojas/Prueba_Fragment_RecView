@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Alerta 105</string>
+    <string name="menu_option1">Limpiar Memoria</string>
+    <string name="menu_option2">Cerrar Sesion</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_login">Sign in</string>
+
+
+</resources>
